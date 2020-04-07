@@ -2,7 +2,7 @@
 
 ## 필요 환경
 CUDA가 지원되는 Nvidia 그래픽 카드\
-Ubuntu 18.04
+Ubuntu 18.04 64bit
 
 ## 설치되는 항목
 Nvidia Driver\
